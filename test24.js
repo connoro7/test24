@@ -23,6 +23,11 @@ function test(testCases) {
     }
 }
 
+
+/*******************************************************************************
+                 * Example Usage
+*******************************************************************************/
+
 function isValid(stale, latest, otjson) {
     // apply otjson to stale and check if it matches latest
     // return true or false
